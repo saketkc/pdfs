@@ -10,8 +10,8 @@ Curated writeups on various topics.
     Footprinting: A Review
     [pdf](./docs/tfbs_prediction_and_phylogenetic_footprinting.pdf)
 -   Golden Thompson via pinching
-    inequality[pdf](./docs/Goldon_Thompson_Inequality_via_Pinching_Inequality.pdf)
+    inequality [pdf](./docs/Goldon_Thompson_Inequality_via_Pinching_Inequality.pdf)
 -   Variational Autoencoders - Intuition and detailsVariational
-    Autoencoders - Intuition and details[pdf](./docs/autoencoders.pdf)
+    Autoencoders - Intuition and details [pdf](./docs/autoencoders.pdf)
 -   \[In Progress\] Basics of Machine Learning
     [pdf](./docs/Machine_Learning_Basics.pdf)
