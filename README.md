@@ -15,3 +15,4 @@ Curated writeups on various topics.
     Autoencoders - Intuition and details [pdf](./docs/autoencoders.pdf)
 -   \[In Progress\] Basics of Machine Learning
     [pdf](./docs/Machine_Learning_Basics.pdf)
+-    Accurate detection of short and long active ORFs using Ribo-seq data [pdf](./docs/ribotricer_2019.pdf) 
