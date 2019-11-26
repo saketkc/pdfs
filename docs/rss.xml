@@ -12,9 +12,9 @@
       <description/>
     </item>
     <item>
-      <guid>https://saket-choudhary.me/pdfs/moca-poster.pdf</guid>
-      <title>moca-poster.pdf</title>
-      <link>https://saket-choudhary.me/pdfs/moca-poster.pdf</link>
+      <guid>https://saket-choudhary.me/pdfs/autoencoders.pdf</guid>
+      <title>autoencoders.pdf</title>
+      <link>https://saket-choudhary.me/pdfs/autoencoders.pdf</link>
       <description/>
     </item>
     <item>
@@ -24,27 +24,21 @@
       <description/>
     </item>
     <item>
+      <guid>https://saket-choudhary.me/pdfs/HOGSVD_orthogonalization.pdf</guid>
+      <title>HOGSVD_orthogonalization.pdf</title>
+      <link>https://saket-choudhary.me/pdfs/HOGSVD_orthogonalization.pdf</link>
+      <description/>
+    </item>
+    <item>
+      <guid>https://saket-choudhary.me/pdfs/Higher_Order_Generalized_SVD_based_alignment_free_method_for_inferring_orthologous_genes_across_species.pdf</guid>
+      <title>Higher_Order_Generalized_SVD_based_alignment_free_method_for_inferring_orthologous_genes_across_species.pdf</title>
+      <link>https://saket-choudhary.me/pdfs/Higher_Order_Generalized_SVD_based_alignment_free_method_for_inferring_orthologous_genes_across_species.pdf</link>
+      <description/>
+    </item>
+    <item>
       <guid>https://saket-choudhary.me/pdfs/tfbs_prediction_and_phylogenetic_footprinting.pdf</guid>
       <title>tfbs_prediction_and_phylogenetic_footprinting.pdf</title>
       <link>https://saket-choudhary.me/pdfs/tfbs_prediction_and_phylogenetic_footprinting.pdf</link>
-      <description/>
-    </item>
-    <item>
-      <guid>https://saket-choudhary.me/pdfs/rnn-cds-2017.pdf</guid>
-      <title>rnn-cds-2017.pdf</title>
-      <link>https://saket-choudhary.me/pdfs/rnn-cds-2017.pdf</link>
-      <description/>
-    </item>
-    <item>
-      <guid>https://saket-choudhary.me/pdfs/autoencoders.pdf</guid>
-      <title>autoencoders.pdf</title>
-      <link>https://saket-choudhary.me/pdfs/autoencoders.pdf</link>
-      <description/>
-    </item>
-    <item>
-      <guid>https://saket-choudhary.me/pdfs/pricd_masters_thesis.pdf</guid>
-      <title>pricd_masters_thesis.pdf</title>
-      <link>https://saket-choudhary.me/pdfs/pricd_masters_thesis.pdf</link>
       <description/>
     </item>
     <item>
@@ -59,7 +53,31 @@
       <link>https://saket-choudhary.me/pdfs/Goldon_Thompson_Inequality_via_Pinching_Inequality.pdf</link>
       <description/>
     </item>
+    <item>
+      <guid>https://saket-choudhary.me/pdfs/rnn-cds-2017.pdf</guid>
+      <title>rnn-cds-2017.pdf</title>
+      <link>https://saket-choudhary.me/pdfs/rnn-cds-2017.pdf</link>
+      <description/>
+    </item>
+    <item>
+      <guid>https://saket-choudhary.me/pdfs/moca-poster.pdf</guid>
+      <title>moca-poster.pdf</title>
+      <link>https://saket-choudhary.me/pdfs/moca-poster.pdf</link>
+      <description/>
+    </item>
+    <item>
+      <guid>https://saket-choudhary.me/pdfs/Strand_Histopath_Final_Report.pdf</guid>
+      <title>Strand_Histopath_Final_Report.pdf</title>
+      <link>https://saket-choudhary.me/pdfs/Strand_Histopath_Final_Report.pdf</link>
+      <description/>
+    </item>
+    <item>
+      <guid>https://saket-choudhary.me/pdfs/pricd_masters_thesis.pdf</guid>
+      <title>pricd_masters_thesis.pdf</title>
+      <link>https://saket-choudhary.me/pdfs/pricd_masters_thesis.pdf</link>
+      <description/>
+    </item>
   </channel>
 </rss>
-<!--<guid value="03c2e8f0-3c3e-4866-b705-196d288c3c94" />-->
+<!--<guid value="9bbe1c72-911d-4ddf-9b03-232a31f7cf6d" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
