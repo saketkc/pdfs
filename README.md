@@ -15,4 +15,7 @@ Curated writeups on various topics.
     Autoencoders - Intuition and details [pdf](./docs/autoencoders.pdf)
 -   \[In Progress\] Basics of Machine Learning
     [pdf](./docs/Machine_Learning_Basics.pdf)
--    Accurate detection of short and long active ORFs using Ribo-seq data [pdf](./docs/ribotricer_2019.pdf) 
+-   Accurate detection of short and long active ORFs using Ribo-seq data [pdf](./docs/ribotricer_2019.pdf) 
+-   Machine Learning for Histopathology Image Classification: To go deeper or not? [pdf](./docs/Strand_Histopath_Final_Report.pdf)
+-   [In Progress] Higher Order Generalized SVD (HOGSVD) based alignment-free method for inferring orthologous genes across species [pdf](./docs/Higher_Order_Generalized_SVD_based_alignment_free_method_for_inferring_orthologous_genes_across_species.pdf)
+-   [In Progress] HOGSVD and orthogonolization of U [pdf](./docs/HOGSVD_orthogonalization.pdf)
